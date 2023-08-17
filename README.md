@@ -10,6 +10,7 @@ En el proyecto estuve a cargo de:
 Tecnologías que use: · JavaScript · React.js · Redux · Tailwind CSS · Figma
 
 💻 Puedes visitar la aplicación en 👉🏼 https://ticket-show.netlify.app/
+
 🔗 También te dejo mi perfil https://www.linkedin.com/in/danielfabiani/
 
 
