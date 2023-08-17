@@ -13,4 +13,6 @@ Tecnologías que use: · JavaScript · React.js · Redux · Tailwind CSS · Figm
 
 🔗 También te dejo mi perfil https://www.linkedin.com/in/danielfabiani/
 
+mi 📫 para que me puedas contactar →  [danielfabiani.dev@gmail.com](mailto:danielfabiani.dev@gmail.com)
+
 
