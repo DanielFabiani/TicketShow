@@ -9,3 +9,6 @@ En el proyecto estuve a cargo de:
 
 Tecnologías que use: · JavaScript · React.js · Redux · Tailwind CSS
 
+💻 Puedes visitar la aplicación en 👉🏼 https://ticket-show.netlify.app/
+
+
