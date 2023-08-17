@@ -7,8 +7,9 @@ En el proyecto estuve a cargo de:
 - Diseñar y desarrollar toda la UI, además de la creación de componentes en ReactJs, y Tailwind CSS para estilos y animaciones.
 - Manejo de estados locales y globales con Redux para la renderiazacion de datos como reviews, cards, banners, details, checkout, entre otros.
 
-Tecnologías que use: · JavaScript · React.js · Redux · Tailwind CSS
+Tecnologías que use: · JavaScript · React.js · Redux · Tailwind CSS · Figma
 
 💻 Puedes visitar la aplicación en 👉🏼 https://ticket-show.netlify.app/
+🔗 También te dejo mi perfil https://www.linkedin.com/in/danielfabiani/
 
 
